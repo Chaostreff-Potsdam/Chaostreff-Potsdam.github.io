@@ -1,7 +1,7 @@
 # Chaostreff-Potsdam.github.io
 Willkommen auf der Webseite vom Chaostreff Potsdam
 
-Das nächste Treffen ist am 25.04.2018 um 19 Uhr in der machBar (Friedrich-Engels-Str. 22 - freiLand - Haus 5)
+Das nächste Treffen ist am 09.05.2018 um 19 Uhr in der machBar (Friedrich-Engels-Str. 22 - freiLand - Haus 5). Sie finden turnusmäßig alle 2 Wochen mittwochs statt.
 
 
 [Mailingliste][join-mailing-list]
