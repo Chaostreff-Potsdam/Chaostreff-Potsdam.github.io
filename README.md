@@ -1,12 +1,49 @@
 # Chaostreff-Potsdam.github.io
-Willkommen auf der Webseite vom Chaostreff Potsdam
+Willkommen auf der Webseite vom Chaostreff Potsdam!
 
-Das nächste Treffen ist am 23.05.2018 um 19 Uhr in der machBar (Friedrich-Engels-Str. 22 - freiLand - Haus 5). Sie finden turnusmäßig alle 2 Wochen mittwochs statt.
+## Worum geht es?
+
+Du findest die Arbeit des Chaos Computer Clubs gut? Du bist Hacker? Du interessierst dich für Netzpolitik? Du schraubst gerne Sachen auf, um zu schauen, wie sie funktionieren? Du begreifst das Internet als deinen Lebensraum? Du bist Science Fiction-Fan? Du setzt dich für Datenschutz und Bürgerrechte ein? Du denkst gerne über die Zukunft nach?
+
+Super, dann schau doch mal beim Chaostreff Potsdam vorbei! [Chaostreffs](https://www.ccc.de/de/club/chaostreffs) sind lose Treffen von Menschen, die sich den Themen und Idealen des [Chaos Computer Clubs](https://www.ccc.de/de/) verbunden fühlen und einfach mal unter Menschen kommen wollen, die einen nicht komisch anschauen, wenn man über "Netzneutralität", "Open Source Programmierung" oder "Weltraumfahrstühle" redet.
+
+## Treffen
+
+Wir treffen uns alle [zwei Wochen][machbar-termine] in der [machBar] Potsdam zum Labern, Schrauben, zusammensitzen, Mate trinken. Unregelmäßig gibt es bei den Chaostreffs inhaltliche Inputs, Vorträge und Veranstaltungen zu diversen CCC-verwandten Themen (welche, erfährst du über unsere [Mailingliste][join-mailing-list]).
+
+Das nächste Treffen ist am 09.05.2018 um 19 Uhr in der [machBar]. Sie finden turnusmäßig alle 2 Wochen mittwochs statt.
+
+- **Wo:** [machBar], Friedrich-Engels-Str. 22 - freiLand - Haus 5
+- **Inhalte, Diskussion und Erinnerungen:** [Mailingliste][join-mailing-list]
+- **Wann:** [Termine][machbar-termine]
+
+## Wer?
+
+Du musst kein Super-Hacker oder Technik-Freak sein, um vorbeizukommen, es reicht, wenn du interessiert bist und Lust auf neue Menschen und interessante Gespräche hast.
+
+Also kommt! Tauscht euch aus! Holt euch eine Mate aus dem Kühlschrank! Nutzt unseren Hackerspace! Alle Lebensformen sind willkommen :) 
+
+## Hackerspace
+
+Die [machBar](https://machbar-potsdam.de/) ist ein Hackerspace auf dem Gelände des alternativen Kulturzentrums [Freiland](https://www.freiland-potsdam.de/) im Erdgeschoss von Haus 5 (Standort: 52.389424, 13.078555).
+
+<!-- from openstreetmap.org -> export -> HTML -> include marker -->
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=13.07753920555115%2C52.38891775630483%2C13.079620599746706%2C52.389922830851866&amp;layer=mapnik&amp;marker=52.38942029643904%2C13.078579902648926" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.38942&amp;mlon=13.07858#map=19/52.38942/13.07858">View Larger Map</a></small>
+
+Die machBar verfügt über drei Bereiche:
+
+ - Holzwerkstatt (Holzbearbeitungsmaschinen und Handwerkzeuge) 
+ - Rapid Prototyping (Lasercutter, CNC-Fräse, 3D Drucker und 3D Scanner)
+ - Elektronik Labor (Lötstationen, PCB-Fräse, Oszilloskop, ..)
+ - ein junges Bio-Labor in Entstehung
+
+Alles kann frei nach Absprache genutzt werden. Zur Aufrechterhaltung des Hackerspaces wird um einen kleinen frewilligen Beitrag gebeten.
+
+[Hier](https://machbar-potsdam.de/?page_id=1250) siehst du, was sonst noch in der machBar passiert.
 
 
-[Mailingliste][join-mailing-list]
 
 
-
-
+[machBar]: https://machbar-potsdam.de/?page_id=20
+[machbar-termine]: https://machbar-potsdam.de/?page_id=1250
 [join-mailing-list]: mailto:&#109;&#097;&#106;&#111;&#114;&#100;&#111;&#109;&#111;&#064;&#102;&#097;&#098;&#108;&#097;&#098;&#045;&#099;&#111;&#116;&#116;&#098;&#117;&#115;&#046;&#100;&#101;?subject=subscribe&#32;chaos-treff-potsdam-fablab-cottbus-de&body=subscribe&#32;chaos-treff-potsdam-fablab-cottbus-de
