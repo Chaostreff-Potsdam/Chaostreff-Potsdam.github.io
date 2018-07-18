@@ -46,14 +46,14 @@ Nutzt unseren Hackerspace! Alle Lebensformen sind willkommen :)
 
 ## Hackerspace
 
-Die [machBar](https://machbar-potsdam.de/) ist ein Hackerspace auf dem Gelände
-des alternativen Kulturzentrums [Freiland](https://www.freiland-potsdam.de/)
+Die [machBar] ist ein Hackerspace auf dem Gelände
+des alternativen Kulturzentrums [Freiland]
 im Erdgeschoss von Haus 5 (Standort: 52.389424, 13.078555).
 
 <!-- from openstreetmap.org -> export -> HTML -> include marker -->
 <iframe width="425" height="350" frameborder="0" scrolling="no"
         marginheight="0" marginwidth="0"
-        src="https://www.openstreetmap.org/export/embed.html?bbox=13.07753920555115%2C52.38891775630483%2C13.079620599746706%2C52.389922830851866&amp;layer=mapnik&amp;marker=52.38942029643904%2C13.078579902648926" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.38942&amp;mlon=13.07858#map=19/52.38942/13.07858">View Larger Map</a></small>
+        src="https://www.openstreetmap.org/export/embed.html?bbox=13.07753920555115%2C52.38891775630483%2C13.079620599746706%2C52.389922830851866&amp;layer=mapnik&amp;marker=52.38942029643904%2C13.078579902648926" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.38942&amp;mlon=13.07858#map=19/52.38942/13.07858">Karte in Groß</a></small>
 
 Die machBar verfügt über drei Bereiche:
 
@@ -65,8 +65,7 @@ Die machBar verfügt über drei Bereiche:
 Alles kann frei nach Absprache genutzt werden.
 Zur Aufrechterhaltung des Hackerspaces wird um einen kleinen frewilligen Beitrag gebeten.
 
-[Hier](https://machbar-potsdam.de/?page_id=1250) siehst du,
-was sonst noch in der machBar passiert.
+[Hier][machBar-Kalender] siehst du, was sonst noch in der machBar passiert.
 
 
 
@@ -75,3 +74,4 @@ was sonst noch in der machBar passiert.
 [machbar-termine]: https://machbar-potsdam.de/?page_id=1250
 [join-mailing-list]: mailto:&#109;&#097;&#106;&#111;&#114;&#100;&#111;&#109;&#111;&#064;&#102;&#097;&#098;&#108;&#097;&#098;&#045;&#099;&#111;&#116;&#116;&#098;&#117;&#115;&#046;&#100;&#101;?subject=subscribe&#32;chaos-treff-potsdam-fablab-cottbus-de&body=subscribe&#32;chaos-treff-potsdam-fablab-cottbus-de
 [machBar-Kalender]: https://machbar-potsdam.de/?page_id=1250
+[Freiland]: https://www.freiland-potsdam.de/
