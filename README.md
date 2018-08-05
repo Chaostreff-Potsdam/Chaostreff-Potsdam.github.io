@@ -33,7 +33,7 @@ Das nächste Treffen ist am 09.05.2018 um 19 Uhr in der [machBar].
 Sie finden turnusmäßig alle 2 Wochen mittwochs statt.
 
 - **Wo:** [machBar], Friedrich-Engels-Str. 22 - freiLand - Haus 5
-- **Inhalte, Diskussion und Erinnerungen:** [Mailingliste][join-mailing-list]
+- **Inhalte, Diskussion und Erinnerungen:** [Mailingliste][join-mailing-list] und [Pad][pad]
 - **Wann:** [Termine][machbar-termine]
 
 ## Wer?
@@ -75,3 +75,4 @@ Zur Aufrechterhaltung des Hackerspaces wird um einen kleinen frewilligen Beitrag
 [join-mailing-list]: mailto:&#109;&#097;&#106;&#111;&#114;&#100;&#111;&#109;&#111;&#064;&#102;&#097;&#098;&#108;&#097;&#098;&#045;&#099;&#111;&#116;&#116;&#098;&#117;&#115;&#046;&#100;&#101;?subject=subscribe&#32;chaos-treff-potsdam-fablab-cottbus-de&body=subscribe&#32;chaos-treff-potsdam-fablab-cottbus-de
 [machBar-Kalender]: https://machbar-potsdam.de/?page_id=1250
 [Freiland]: https://www.freiland-potsdam.de/
+[pad]: http://www.pad.freiland-potsdam.de/chaostreff?
