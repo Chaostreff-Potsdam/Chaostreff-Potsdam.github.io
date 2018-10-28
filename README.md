@@ -55,12 +55,12 @@ im Erdgeschoss von Haus 5 (Standort: 52.389424, 13.078555).
         marginheight="0" marginwidth="0"
         src="https://www.openstreetmap.org/export/embed.html?bbox=13.07753920555115%2C52.38891775630483%2C13.079620599746706%2C52.389922830851866&amp;layer=mapnik&amp;marker=52.38942029643904%2C13.078579902648926" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.38942&amp;mlon=13.07858#map=19/52.38942/13.07858">Karte in Groß</a></small>
 
-Die machBar verfügt über drei Bereiche:
+Die machBar verfügt über diese Bereiche:
 
  - Holzwerkstatt (Holzbearbeitungsmaschinen und Handwerkzeuge) 
  - Rapid Prototyping (Lasercutter, CNC-Fräse, 3D Drucker und 3D Scanner)
  - Elektronik Labor (Lötstationen, PCB-Fräse, Oszilloskop, ..)
- - ein junges Bio-Labor in Entstehung
+ - Die [bioPunk.kitchen], ein Biolabor gleich nebenan
 
 Alles kann frei nach Absprache genutzt werden.
 Zur Aufrechterhaltung des Hackerspaces wird um einen kleinen frewilligen Beitrag gebeten.
@@ -76,3 +76,4 @@ Zur Aufrechterhaltung des Hackerspaces wird um einen kleinen frewilligen Beitrag
 [machBar-Kalender]: https://machbar-potsdam.de/?page_id=1250
 [Freiland]: https://www.freiland-potsdam.de/
 [pad]: http://www.pad.freiland-potsdam.de/chaostreff?
+[bioPunk.kitchen]: http://biopunk.kitchen/
