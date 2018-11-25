@@ -25,12 +25,9 @@ wenn man über "Netzneutralität", "Open Source Programmierung" oder "Weltraumfa
 
 Wir treffen uns alle [zwei Wochen][machbar-termine] in der [machBar] Potsdam zum
 Labern, Schrauben, zusammensitzen, Mate trinken.
-Unregelmäßig gibt es bei den Chaostreffsinhaltliche Inputs, Vorträge und
+Unregelmäßig gibt es bei den Chaostreffs inhaltliche Inputs, Vorträge und
 Veranstaltungen zu diversen CCC-verwandten Themen (welche, erfährst du über
 unsere [Mailingliste][join-mailing-list]).
-
-Das nächste Treffen ist am 09.05.2018 um 19 Uhr in der [machBar].
-Sie finden turnusmäßig alle 2 Wochen mittwochs statt.
 
 - **Wo:** [machBar], Friedrich-Engels-Str. 22 - freiLand - Haus 5
 - **Inhalte, Diskussion und Erinnerungen:** [Mailingliste][join-mailing-list] und [Pad][pad]
