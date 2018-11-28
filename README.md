@@ -31,7 +31,7 @@ unsere [Mailingliste][join-mailing-list]).
 
 - **Wo:** [machBar], Friedrich-Engels-Str. 22 - freiLand - Haus 5
 - **Inhalte, Diskussion und Erinnerungen:** [Mailingliste][join-mailing-list] und [Pad][pad]
-- **Wann:** [Termine][machbar-termine]
+- **Wann:** alle zwei Wochen am Mittwoch, siehe [Termine][machbar-termine]
 
 ## Wer?
 
