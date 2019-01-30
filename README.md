@@ -66,6 +66,8 @@ Zur Aufrechterhaltung des Hackerspaces wird um einen kleinen frewilligen Beitrag
  - [twitter][twitter]
  - [mastodon][mastodon]
  - [mailingliste][join-mailing-list]
+
+
 [Hier][machBar-Kalender] siehst du, was sonst noch in der machBar passiert.
 
 
