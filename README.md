@@ -62,6 +62,10 @@ Die machBar verfügt über diese Bereiche:
 Alles kann frei nach Absprache genutzt werden.
 Zur Aufrechterhaltung des Hackerspaces wird um einen kleinen frewilligen Beitrag gebeten.
 
+## Unsere Kommunikationskanäle
+ - [twitter][twitter]
+ - [mastodon][mastodon]
+
 [Hier][machBar-Kalender] siehst du, was sonst noch in der machBar passiert.
 
 
@@ -72,5 +76,7 @@ Zur Aufrechterhaltung des Hackerspaces wird um einen kleinen frewilligen Beitrag
 [join-mailing-list]: mailto:&#109;&#097;&#106;&#111;&#114;&#100;&#111;&#109;&#111;&#064;&#102;&#097;&#098;&#108;&#097;&#098;&#045;&#099;&#111;&#116;&#116;&#098;&#117;&#115;&#046;&#100;&#101;?subject=subscribe&#32;chaos-treff-potsdam-fablab-cottbus-de&body=subscribe&#32;chaos-treff-potsdam-fablab-cottbus-de
 [machBar-Kalender]: https://machbar-potsdam.de/?page_id=1250
 [Freiland]: https://www.freiland-potsdam.de/
+[twitter]: https://twitter.com/ChaosPotsdam
+[mastodon]: https://chaos.social/@cccp
 [pad]: http://www.pad.freiland-potsdam.de/chaostreff?
 [bioPunk.kitchen]: http://biopunk.kitchen/
