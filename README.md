@@ -60,7 +60,7 @@ Die machBar verfügt über diese Bereiche:
  - Die [bioPunk.kitchen], ein Biolabor gleich nebenan
 
 Alles kann frei nach Absprache genutzt werden.
-Zur Aufrechterhaltung des Hackerspaces wird um einen kleinen frewilligen Beitrag gebeten.
+Zur Aufrechterhaltung des Hackerspaces wird um einen kleinen freiwilligen Beitrag gebeten.
 
 ## Unsere Kommunikationskanäle
  - [twitter][twitter]
