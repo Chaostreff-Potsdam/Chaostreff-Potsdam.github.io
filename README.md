@@ -23,7 +23,7 @@ wenn man über "Netzneutralität", "Open Source Programmierung" oder "Weltraumfa
 
 ## Treffen
 
-Wir treffen uns alle [zwei Wochen][machbar-termine] in der [machBar] Potsdam zum
+Wir treffen uns [jeden Mittwochabend][machbar-termine] in der [machBar] Potsdam zum
 Labern, Schrauben, zusammensitzen, Mate trinken.
 Unregelmäßig gibt es bei den Chaostreffs inhaltliche Inputs, Vorträge und
 Veranstaltungen zu diversen CCC-verwandten Themen (welche, erfährst du über
