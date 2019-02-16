@@ -1,0 +1,9 @@
+{
+  "x-file-description-for-humans": "This is the calendar specification for the calendar we show on the website. It uses this software: https://github.com/niccokunzmann/open-web-calendar",
+  "x-specification-url": "https://github.com/Chaostreff-Potsdam/Chaostreff-Potsdam.github.io/raw/master/calendar_specification.json",
+  "x-discussion-url": "https://forum.wilap.de/t/eigener-cccp-kalender/140",
+  "url": [
+    "wilap.de:3000/filter?url=https://calendar.google.com/calendar/ical/j68lhv614hbv3u4ttbrs6glhpg%2540group.calendar.google.com/public/basic.ics&filter=(ccc%7Cchaos)"
+  ],
+  "title": "CCCP Kalender"
+}
