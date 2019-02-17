@@ -6,5 +6,6 @@
     "http://wilap.de:3000/filter?url=https://calendar.google.com/calendar/ical/j68lhv614hbv3u4ttbrs6glhpg%2540group.calendar.google.com/public/basic.ics&filter=(ccc%7Cchaos)"
   ],
   "title": "CCCP Kalender",
-  "language": "de"
+  "language": "de",
+  "skin": "dhtmlxscheduler_contrast_black.css"
 }
