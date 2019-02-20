@@ -45,7 +45,9 @@ Nutzt unseren Hackerspace! Alle Lebensformen sind willkommen :)
 
 Die [machBar] ist ein Hackerspace auf dem Gelände
 des alternativen Kulturzentrums [Freiland]
-im Erdgeschoss von Haus 5 (Standort: 52.389424, 13.078555).
+im Erdgeschoss von Haus 5 (Standort: 
+<!-- Geo link for opening map with a smartphone, see https://stackoverflow.com/a/10632079 -->
+<a href="geo:52.389424,13.078555" target="_blank">52.389424, 13.078555</a>).
 
 <!-- from openstreetmap.org -> export -> HTML -> include marker -->
 <iframe width="100%" height="350" frameborder="0" scrolling="no"
