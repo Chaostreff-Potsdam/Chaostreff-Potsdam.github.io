@@ -63,22 +63,16 @@ Alles kann frei nach Absprache genutzt werden.
 Zur Aufrechterhaltung des Hackerspaces wird um einen kleinen freiwilligen Beitrag gebeten.
 
 ## Unsere Kommunikationskanäle
- - [twitter][twitter]
- - [mastodon][mastodon]
- - [mailingliste][join-mailing-list]
-
+ - [Mastodon][mastodon]
+ - [Twitter][twitter]
+ - Die [Mailingliste][join-mailing-list]  benutzen wir, um uns zu Koordinieren und was anzusagen.
+ - Beim [XMPP Chat][xmpp] kannst Du einen eigenen Account erstellen und den Räumen
+     `chaostreffpotsdam@conference.xmpp.ccc-p.org` oder
+     `chaostreff@conference.xmpp.ccc-p.org` beitreten.
+ - Auf [radio.ccc-p.org] findet ihr unsere Podcasts im Nerd-Talk.
+ - **Treffen im echten Leben** werden über die Mailingliste angekündigt und stehen im Kalender.
 
 [Hier][machBar-Kalender] siehst du, was sonst noch in der machBar passiert.
-
-## Kontakt
-
-Wir kommunizieren über folgende Kanäle.
-
-- Die [Mailingliste][join-mailing-list] benutzen wir, um uns zu Koordinieren und was anzusagen.
-- Beim [XMPP Chat][xmpp] kannst Du einen eigenen Account erstellen und den Räumen
-    `chaostreffpotsdam@conference.xmpp.ccc-p.org` oder
-    `chaostreff@conference.xmpp.ccc-p.org` beitreten.
-- **Treffen im echten Leben** werden über die Mailingliste angekündigt.
 
 
 [xmpp]: https://xmpp.ccc-p.org
@@ -91,3 +85,4 @@ Wir kommunizieren über folgende Kanäle.
 [mastodon]: https://chaos.social/@cccp
 [pad]: http://www.pad.freiland-potsdam.de/chaostreff?
 [bioPunk.kitchen]: http://biopunk.kitchen/
+[radio.ccc-p.org]: https://radio.ccc-p.org/
