@@ -66,9 +66,8 @@ Zur Aufrechterhaltung des Hackerspaces wird um einen kleinen freiwilligen Beitra
  - [Mastodon][mastodon]
  - [Twitter][twitter]
  - Die [Mailingliste][join-mailing-list]  benutzen wir, um uns zu Koordinieren und was anzusagen.
- - Beim [XMPP Chat][xmpp] kannst Du einen eigenen Account erstellen und den Räumen
-     `chaostreffpotsdam@conference.xmpp.ccc-p.org` oder
-     `chaostreff@conference.xmpp.ccc-p.org` beitreten.
+ - Beim [XMPP Chat][xmpp] kannst Du einen eigenen Account erstellen und dem Raum
+     `chaostreffpotsdam@conference.xmpp.ccc-p.org` beitreten.
  - Auf [radio.ccc-p.org] findet ihr unsere Podcasts im Nerd-Talk.
  - **Treffen im echten Leben** werden über die Mailingliste angekündigt und stehen im Kalender.
 
