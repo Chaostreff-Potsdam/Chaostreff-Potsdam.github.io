@@ -91,5 +91,5 @@ Wir kommunizieren über folgende Kanäle.
 [Freiland]: https://www.freiland-potsdam.de/
 [twitter]: https://twitter.com/ChaosPotsdam
 [mastodon]: https://chaos.social/@cccp
-[pad]: http://www.pad.freiland-potsdam.de/chaostreff?
+[pad]: https://pad.ccc-p.org/pad/#/2/pad/edit/5p69kEsiG9ZasGh6qyd84m8h/
 [bioPunk.kitchen]: http://biopunk.kitchen/
