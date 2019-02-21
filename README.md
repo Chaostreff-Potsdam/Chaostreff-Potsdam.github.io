@@ -33,6 +33,8 @@ unsere [Mailingliste][join-mailing-list]).
 - **Inhalte, Diskussion und Erinnerungen:** [Mailingliste][join-mailing-list] und [Pad][pad]
 - **Wann:** alle zwei Wochen am Mittwoch, siehe [Termine][machbar-termine]
 
+<iframe src="https://open-web-calendar.herokuapp.com/calendar.html?specification_url=https://github.com/Chaostreff-Potsdam/Chaostreff-Potsdam.github.io/raw/master/calendar-specification.json" scrolling="no" frameborder="0" height="600px" width="100%"></iframe>
+
 ## Wer?
 
 Du musst kein Super-Hacker oder Technik-Freak sein, um vorbeizukommen, es reicht,
