@@ -67,9 +67,9 @@ Alles kann frei nach Absprache genutzt werden.
 Zur Aufrechterhaltung des Hackerspaces wird um einen kleinen freiwilligen Beitrag gebeten.
 
 ## Unsere Kommunikationskanäle
- - [Mastodon][mastodon]
- - [Twitter][twitter]
- - Die [Mailingliste][join-mailing-list]  benutzen wir, um uns zu Koordinieren und was anzusagen.
+ - [Mastodon][mastodon] und [Twitter][twitter]
+ - Im [Forum wilap.de][forum.wilap.de] stimmen wir uns über Projekte ab.
+ - Die [Mailingliste][join-mailing-list]  benutzen wir, um Treffen zu koordinieren und anzusagen.
  - Beim [XMPP Chat][xmpp] kannst Du einen eigenen Account erstellen und dem Raum
      `chaostreffpotsdam@conference.xmpp.ccc-p.org` beitreten.
  - Auf [radio.ccc-p.org] findet ihr unsere Podcasts im Nerd-Talk.
@@ -89,3 +89,4 @@ Zur Aufrechterhaltung des Hackerspaces wird um einen kleinen freiwilligen Beitra
 [pad]: https://pad.ccc-p.org/pad/#/2/pad/edit/5p69kEsiG9ZasGh6qyd84m8h/
 [bioPunk.kitchen]: http://biopunk.kitchen/
 [radio.ccc-p.org]: https://radio.ccc-p.org/
+[forum.wilap.de]: https://forum.wilap.de/c/cccp
