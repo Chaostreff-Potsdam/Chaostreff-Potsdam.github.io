@@ -54,7 +54,7 @@ im Erdgeschoss von Haus 5 (Standort:
 <!-- from openstreetmap.org -> export -> HTML -> include marker -->
 <iframe width="100%" height="350" frameborder="0" scrolling="no"
         marginheight="0" marginwidth="0"
-        src="https://www.openstreetmap.org/export/embed.html?bbox=13.07753920555115%2C52.38891775630483%2C13.079620599746706%2C52.389922830851866&amp;layer=mapnik&amp;marker=52.38942029643904%2C13.078579902648926" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.38942&amp;mlon=13.07858#map=19/52.38942/13.07858">Karte in Groß</a></small>
+        src="https://www.openstreetmap.org/export/embed.html?bbox=13.07753920555115%2C52.38891775630483%2C13.079620599746706%2C52.389922830851866&amp;layer=mapnik&amp;marker=52.38942029643904%2C13.078579902648926" style="border: 1px solid black"></iframe><a href="https://www.openstreetmap.org/?mlat=52.38942&amp;mlon=13.07858#map=19/52.38942/13.07858">Karte in Groß</a>
 
 Die machBar verfügt über diese Bereiche:
 
