@@ -58,6 +58,7 @@ im Erdgeschoss von Haus 5 (Standort:
 
 Die machBar verfügt über diese Bereiche:
 
+ - Seminarraum für Treffen
  - Holzwerkstatt (Holzbearbeitungsmaschinen und Handwerkzeuge) 
  - Rapid Prototyping (Lasercutter, CNC-Fräse, 3D Drucker und 3D Scanner)
  - Elektronik Labor (Lötstationen, PCB-Fräse, Oszilloskop, ..)
