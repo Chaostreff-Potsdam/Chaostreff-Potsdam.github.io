@@ -1,4 +1,5 @@
-# Chaostreff-Potsdam.github.io
+# www.ccc-p.org
+
 Willkommen auf der Webseite vom Chaostreff Potsdam!
 
 Die Treffen sind in der machBar (Friedrich-Engels-Str. 22 - freiLand - Haus 5).
