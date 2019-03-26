@@ -66,7 +66,10 @@ Die machBar verfügt über diese Bereiche:
  - Die [bioPunk.kitchen], ein Biolabor gleich nebenan
 
 Alles kann frei nach Absprache genutzt werden.
-Zur Aufrechterhaltung des Hackerspaces wird um einen kleinen freiwilligen Beitrag gebeten.
+Der Hackerspace zahlt Miete und andere Kosten aus freiwilligen Beiträgen und
+wird durch Leute, die geförderte Projekte in ihm machen, finanziert.
+Dein Beitrag ist willkommen, sei es Hilfe, Geld, Ordnung oder was du sonst so siehst,
+das den Hackerspace bereichert.
 
 ## Unsere Kommunikationskanäle
  - [Mastodon][mastodon] und [Twitter][twitter]
