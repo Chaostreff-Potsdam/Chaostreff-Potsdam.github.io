@@ -8,5 +8,6 @@
   ],
   "title": "CCCP Kalender",
   "language": "de",
-  "skin": "dhtmlxscheduler_contrast_black.css"
+  "skin": "dhtmlxscheduler_contrast_black.css",
+  "css": "a {color: white;}"
 }
