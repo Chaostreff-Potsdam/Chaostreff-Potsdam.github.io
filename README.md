@@ -86,7 +86,7 @@ das den Hackerspace bereichert.
 [xmpp]: https://xmpp.ccc-p.org
 [machBar]: https://machbar-potsdam.de/?page_id=20
 [machbar-termine]: https://machbar-potsdam.de/?page_id=1250
-[join-mailing-list]: mailto:&#116;&#114;&#101;&#102;&#102;&#45;&#115;&#117;&#98;&#115;&#99;&#114;&#105;&#98;&#101;&#64;&#99;&#99;&#99;&#45;&#112;&#46;&#111;&#114;&#103;?subject=subscribe
+[join-mailing-list]: https://lists.ccc-p.org/listinfo/treff
 [machBar-Kalender]: https://machbar-potsdam.de/?page_id=1250
 [Freiland]: https://www.freiland-potsdam.de/
 [twitter]: https://twitter.com/ChaosPotsdam
