@@ -95,3 +95,6 @@ das den Hackerspace bereichert.
 [bioPunk.kitchen]: http://biopunk.kitchen/
 [radio.ccc-p.org]: https://radio.ccc-p.org/
 [forum.wilap.de]: https://forum.wilap.de/c/cccp
+
+<link rel="icon" type="image/svg+xml" href="icon.svg" />
+
