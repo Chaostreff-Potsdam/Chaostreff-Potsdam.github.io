@@ -75,15 +75,15 @@ das den Hackerspace bereichert.
  - [Mastodon][mastodon] und [Twitter][twitter]
  - Im [Forum wilap.de][forum.wilap.de] stimmen wir uns über Projekte ab.
  - Die [Mailingliste][join-mailing-list]  benutzen wir, um Treffen zu koordinieren und anzusagen.
- - Beim [XMPP Chat][xmpp] kannst Du einen eigenen Account erstellen und dem Raum
-     `chaostreffpotsdam@conference.xmpp.ccc-p.org` beitreten.
+ - Beim [Matrix Chat][chat] kannst Du einen eigenen Account erstellen und dem Raum
+     `#treff:chat.ccc-p.org` beitreten.
  - Auf [radio.ccc-p.org] findet ihr unsere Podcasts im Nerd-Talk.
  - **Treffen im echten Leben** werden über die Mailingliste angekündigt und stehen im Kalender.
 
 [Hier][machBar-Kalender] siehst du, was sonst noch in der machBar passiert.
 
 
-[xmpp]: https://xmpp.ccc-p.org
+[chat]: https://chat.ccc-p.org
 [machBar]: https://machbar-potsdam.de/?page_id=20
 [machbar-termine]: https://machbar-potsdam.de/?page_id=1250
 [join-mailing-list]: https://lists.ccc-p.org/listinfo/treff
