@@ -1,0 +1,32 @@
+{
+    "api": "0.13",
+    "space": "Chaostreff Potsdam (CCCP)",
+    "logo": "https://www.ccc-p.org/logo.png",
+    "url": "https://www.ccc-p.org/",
+    "location": {
+        "address": "machBar, freiLand - Haus 5, Friedrich-Engels-Str. 22, 14473 Potsdam, Germany",
+        "lon": 13.078555,
+        "lat": 52.389424
+    },
+    "contact": {
+        "irc": "irc://irc.freenode.net/#ccc-p",
+        "twitter": "@ChaosPotsdam",
+        "ml": "treff@ccc-p.org"
+    },
+    "issue_report_channels": [
+        "twitter"
+    ],
+    "state": {
+        "open": null
+    },
+    "projects": [
+        "http://github.com/Chaostreff-Potsdam"
+    ],
+    "feeds": {
+        "calendar": {
+          "type": "ical",
+          "url": "https://calender-merger.herokuapp.com/join-calenders.ics?https%3A%2F%2Fical-filter1.herokuapp.com%2Ffilter%3Furl%3Dhttps%3A%2F%2Fcalendar.google.com%2Fcalendar%2Fical%2Fj68lhv614hbv3u4ttbrs6glhpg%252540group.calendar.google.com%2Fpublic%2Fbasic.ics%26filter%3D(ccc%257Cchaos)=&https%3A%2F%2Fforum.wilap.de%2Fc%2Fcccp%2Fl%2Fcalendar.ics%3Fcategory_slug_path_with_id%3Dcccp="
+        }
+    },
+    "ext_ccc": "chaostreff"
+}
