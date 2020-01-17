@@ -10,5 +10,6 @@
   "title": "CCCP Kalender",
   "language": "de",
   "skin": "dhtmlxscheduler_contrast_black.css",
-  "css": "a {color: white;}"
+  "css": "a {color: white;}",
+  "description": "Das ist der Kalender vom <a href='https://ccc-p.org/'>Chaostreff Potsdam</a>. Wenn du mehr darüber erfahren magst, kannst du darüber <a href='https://forum.wilap.de/t/eigener-cccp-kalender/140'>lesen und diskutieren</a>."
 }
