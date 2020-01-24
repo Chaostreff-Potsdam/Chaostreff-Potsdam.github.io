@@ -25,7 +25,7 @@
     "feeds": {
         "calendar": {
           "type": "ical",
-          "url": "https://calender-merger.herokuapp.com/join-calenders.ics?https%3A%2F%2Fical-filter1.herokuapp.com%2Ffilter%3Furl%3Dhttps%3A%2F%2Fcalendar.google.com%2Fcalendar%2Fical%2Fj68lhv614hbv3u4ttbrs6glhpg%252540group.calendar.google.com%2Fpublic%2Fbasic.ics%26filter%3D(ccc%257Cchaos)=&https%3A%2F%2Fforum.wilap.de%2Fc%2Fcccp%2Fl%2Fcalendar.ics%3Fcategory_slug_path_with_id%3Dcccp="
+          "url": "https://open-web-calendar.herokuapp.com/calendar.ics?specification_url=https://www.ccc-p.org/calendar-specification.json"
         }
     },
     "ext_ccc": "chaostreff"
