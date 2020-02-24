@@ -77,9 +77,6 @@ das den Hackerspace bereichert.
  - Die [Mailingliste][join-mailing-list]  benutzen wir, um Treffen zu koordinieren und anzusagen.
  - Beim [Matrix Chat][chat] kannst Du einen eigenen Account erstellen und dem Raum
      `#treff:chat.ccc-p.org` beitreten.
-
-     Alternativ ist dieser Raum auch über IRC auf `freenode.net` als `#ccc-p`
-     verfügbar, dem du mit dem IRC-Client deiner Wahl oder per [Webchat][webchat] beitreten kannst.
  - Auf [radio.ccc-p.org] findet ihr unsere Podcasts im Nerd-Talk.
  - **Treffen im echten Leben** werden über die Mailingliste angekündigt und stehen im Kalender.
 
@@ -98,7 +95,6 @@ das den Hackerspace bereichert.
 [bioPunk.kitchen]: http://biopunk.kitchen/
 [radio.ccc-p.org]: https://radio.ccc-p.org/
 [forum.wilap.de]: https://forum.wilap.de/c/cccp
-[webchat]: https://webchat.freenode.net/?channels=#ccc-p
 
 <link rel="icon" type="image/svg+xml" href="icon.svg" />
 
