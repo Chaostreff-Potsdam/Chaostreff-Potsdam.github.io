@@ -1,6 +1,4 @@
-# www.ccc-p.org
-
-Willkommen auf der Webseite vom Chaostreff Potsdam!
+Willkommen auf der Webseite des Chaostreff Potsdam!
 
 Die Treffen sind in der machBar (Friedrich-Engels-Str. 22 - freiLand - Haus 5).
 Sie finden turnusmäßig jede Woche mittwochs statt. Wann genau, steht im [Kalender der machBar][machBar-Kalender].
