@@ -1,7 +1,7 @@
 Willkommen auf der Webseite des Chaostreff Potsdam!
 
 Die Treffen sind in der machBar (Friedrich-Engels-Str. 22 - freiLand - Haus 5).
-Sie finden turnusmäßig jede Woche mittwochs statt. Wann genau, steht im [Kalender der machBar][machBar-Kalender].
+Sie finden turnusmäßig jede Woche mittwochs um 19:00 Uhr (MEZ) statt. (Siehe auch im [Kalender der machBar][machBar-Kalender].)
 
 Wenn du mitbekommen magst, wann wir uns treffen und welche Themen du mit uns vorbereiten kannst, dann kannst du der
 [Mailingliste beitreten][join-mailing-list].
@@ -30,7 +30,7 @@ unsere [Mailingliste][join-mailing-list]).
 
 - **Wo:** [machBar], Friedrich-Engels-Str. 22 - freiLand - Haus 5
 - **Inhalte, Diskussion und Erinnerungen:** [Mailingliste][join-mailing-list] und [Pad][pad]
-- **Wann:** jede Woche am Mittwoch, siehe [Termine][machbar-termine]
+- **Wann:** jede Woche am Mittwoch um 19:00 Uhr (MEZ) (siehe [Termine][machbar-termine])
 
 <iframe src="https://open-web-calendar.herokuapp.com/calendar.html?specification_url=https://www.ccc-p.org/calendar-specification.json" scrolling="no" frameborder="0" height="600px" width="100%"></iframe>
 
