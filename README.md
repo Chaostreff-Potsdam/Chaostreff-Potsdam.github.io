@@ -1,5 +1,7 @@
 Willkommen auf der Webseite des Chaostreff Potsdam!
 
+<div style="background: #b00; padding: 1em;">Die wöchentlichen Treffen finden derzeit aufgrund des Coronarisikos nicht statt! Online-Kommunikationskanäle bei Chaosentzug: <a href="#unsere-kommunikationskanäle">hier!</a></div>
+
 Die Treffen sind in der machBar (Friedrich-Engels-Str. 22 - freiLand - Haus 5).
 Sie finden turnusmäßig jede Woche mittwochs statt. Wann genau, steht im [Kalender der machBar][machBar-Kalender].
 
