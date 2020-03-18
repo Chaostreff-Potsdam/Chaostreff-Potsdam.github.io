@@ -2,7 +2,7 @@ Willkommen auf der Webseite des Chaostreff Potsdam!
 
 <div style="background: #b00; padding: 1em;">Die wöchentlichen Vor-Ort-Treffen finden derzeit aufgrund des Coronarisikos nicht statt!
 
-Stattdessen treffen wir uns mittwochs ab 19 Uhr hier: https://meet.d.ccc-p.org/treff
+Stattdessen treffen wir uns mittwochs ab 19 Uhr hier: [https://meet.d.ccc-p.org/treff](https://meet.d.ccc-p.org/treff)
 
 Weitere Online-Kommunikationskanäle bei Chaosentzug: <a href="#unsere-kommunikationskanäle">hier!</a></div>
 
