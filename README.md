@@ -76,11 +76,11 @@ Dein Beitrag ist willkommen, sei es Hilfe, Geld, Ordnung oder was du sonst so si
 das den Hackerspace bereichert.
 
 ## Unsere Kommunikationskanäle
- - [Mastodon][mastodon], IRC (#ccc-p auf freenode.net) und [Twitter][twitter]
+ - Beim [Matrix Chat][chat] kannst Du einen eigenen Account erstellen und dem Raum
+     `#treff:chat.ccc-p.org` beitreten oder aber den synchronisierten IRC raum: #ccc-p auf freenode.net nutzen.
+ - [Mastodon][mastodon], und [Twitter][twitter]
  - Im [Forum wilap.de][forum.wilap.de] stimmen wir uns über Projekte ab.
  - Die [Mailingliste][join-mailing-list]  benutzen wir, um Treffen zu koordinieren und anzusagen.
- - Beim [Matrix Chat][chat] kannst Du einen eigenen Account erstellen und dem Raum
-     `#treff:chat.ccc-p.org` beitreten.
  - Auf [radio.ccc-p.org] findet ihr unsere Podcasts im Nerd-Talk.
  - **Treffen im echten Leben** werden über die Mailingliste angekündigt und stehen im Kalender.
 
