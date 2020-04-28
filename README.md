@@ -77,7 +77,8 @@ das den Hackerspace bereichert.
 
 ## Unsere Kommunikationskanäle
  - Beim [Matrix Chat][chat] kannst Du einen eigenen Account erstellen und dem Raum
-     `#treff:chat.ccc-p.org` beitreten oder aber den synchronisierten IRC raum: #ccc-p auf freenode.net nutzen.
+     `#treff:chat.ccc-p.org` beitreten 
+ - Oder aber den synchronisierten IRC Raum: `#ccc-p` auf `freenode.net` nutzen.
  - [Mastodon][mastodon], und [Twitter][twitter]
  - Im [Forum wilap.de][forum.wilap.de] stimmen wir uns über Projekte ab.
  - Die [Mailingliste][join-mailing-list]  benutzen wir, um Treffen zu koordinieren und anzusagen.
