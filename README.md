@@ -76,14 +76,18 @@ Dein Beitrag ist willkommen, sei es Hilfe, Geld, Ordnung oder was du sonst so si
 das den Hackerspace bereichert.
 
 ## Unsere Kommunikationskanäle
- - Beim [Matrix Chat][chat] kannst Du einen eigenen Account erstellen und dem Raum
+ 
+ **Treffen im echten Leben** werden im Chat, über die Mailingliste und auf Mastodon und Twitter angekündigt.
+ 
+ 1. **Bevorzugtes Kommunikationsmedium** ist unser [Matrix Chat][chat]
+        - Du kannst dir einen eigenen Account erstellen ([Matrix Chat][chat]) und dem Raum
      `#treff:chat.ccc-p.org` beitreten 
- - Oder aber den synchronisierten IRC Raum: `#ccc-p` auf `freenode.net` nutzen.
- - [Mastodon][mastodon], und [Twitter][twitter]
- - Im [Forum wilap.de][forum.wilap.de] stimmen wir uns über Projekte ab.
- - Die [Mailingliste][join-mailing-list]  benutzen wir, um Treffen zu koordinieren und anzusagen.
- - Auf [radio.ccc-p.org] findet ihr unsere Podcasts im Nerd-Talk.
- - **Treffen im echten Leben** werden über die Mailingliste angekündigt und stehen im Kalender.
+        - Oder den synchronisierten IRC Raum: `#ccc-p` auf `freenode.net` nutzen.
+ 2. Die [Mailingliste][join-mailing-list] benutzen wir, um Treffen und Events zu koordinieren und anzusagen.
+ 3. Treffen werden auch auf [Mastodon][mastodon], und [Twitter][twitter] angekündigt.
+ 4. Im [Forum wilap.de][forum.wilap.de] (der Machbar) stimmen wir uns über (Hardware-) Projekte ab.
+ 5. Auf [radio.ccc-p.org] findet ihr unsere Podcasts im Nerd-Talk.
+ 
 
 [Hier][machBar-Kalender] siehst du, was sonst noch in der machBar passiert.
 
