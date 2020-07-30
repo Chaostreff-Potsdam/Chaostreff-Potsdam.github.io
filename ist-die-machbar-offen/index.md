@@ -3,8 +3,7 @@
 <img id="icon" style = "max-width: 50%;" onclick="update()"/>
 <div id="message" style= "font-size:xx-large; color:#aa593d;">Die Machbar ist geschlossen!</div>
 <br/>
-<div style= "color:#aa593d;">Stand: <span id="updateTime"></span></div>
-
+<div style= "color:#aa593d;">Stand: <span id="updateTime"></span> <a onclick="update()">(aktualisieren)</a></div>
 <style>
 #footer {
     position: fixed;
@@ -35,7 +34,6 @@ function setState(state){
 function update (){
     $.getJSON(spaceApiURL, function(data){
         var state = data["state"]["open"];
-        // state=true;
         setState(state);
         $("#updateTime").text(new Date().toLocaleString());
     })
