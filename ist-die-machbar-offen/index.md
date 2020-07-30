@@ -23,22 +23,30 @@ var states = {
     false: {icon:"close.svg", message: "Die Machbar ist geschlossen!", color: "#aa593d"}
 }
 
+var refreshTime = 60; // refresh every x seconds
+
 function setState(state){
-    console.log(state);
     var stateConfig = states[state];
+
     $("#icon").attr("src", stateConfig.icon);
     $("#message").text(stateConfig.message);
     $("#message").css("color", stateConfig.color);
+    $("#updateTime").text(new Date().toLocaleString());
 }
 
 function update (){
     $.getJSON(spaceApiURL, function(data){
-        var state = data["state"]["open"];
+        var state = data.state.open;
         setState(state);
-        $("#updateTime").text(new Date().toLocaleString());
     })
 }
-$(document).ready(update);
+
+function main(){
+    update();
+    setInterval(update, refreshTime * 1000); // update state once every refreshTime seconds
+}
+
+$(document).ready(main);
 </script>
 
 <div id="footer">
