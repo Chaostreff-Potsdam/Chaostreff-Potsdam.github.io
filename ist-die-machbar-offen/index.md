@@ -36,6 +36,10 @@ function setState(state){
     $("#updateTime").text(new Date().toLocaleString());
 }
 
+function onFail(){
+    setState("error")
+}
+
 function update (){
     $.getJSON(spaceApiURL, function(data){
         try{
@@ -45,12 +49,10 @@ function update (){
             setState(state);
         }
         catch (ex){
-            setState("error")
+            onFail()
         }
 
-    }).fail(
-        setState("error")
-    )
+    }).fail(onFail)
 }
 
 function main(){
