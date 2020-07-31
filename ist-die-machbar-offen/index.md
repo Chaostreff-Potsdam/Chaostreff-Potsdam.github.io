@@ -1,7 +1,7 @@
 # Ist die machBar offen?
 
 <img id="icon" style = "max-width: 50%;" onclick="update()"/>
-<div id="message" style= "font-size:xx-large; color:#aa593d;">Die machBar ist geschlossen!</div>
+<div id="message" style= "font-size:xx-large; color:#aa593d;">Bitte aktiviere JavaScript!</div>
 <br/>
 <div style= "color:#aa593d;">Stand: <span id="updateTime"></span> <a onclick="update()">(aktualisieren)</a></div>
 <style>
@@ -13,7 +13,7 @@
 </style>
 
 
-<script src="query-3.5.1.min.js"></script>
+<script src="jquery-3.5.1.min.js"></script>
 
 <script>
 var spaceApiURL = "https://spaceapi.ccc-p.org/";
