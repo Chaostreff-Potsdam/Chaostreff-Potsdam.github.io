@@ -1,7 +1,7 @@
 # Ist die machBar offen?
 
-<img id="icon" style = "max-width: 50%;" onclick="update()"/>
-<div id="message" style= "font-size:xx-large; color:#aa593d;" img="error.svg" alt="Error Symbol">Bitte aktiviere JavaScript!</div>
+<img id="icon" style = "max-width: 50%;" onclick="update()"  src="error.svg" alt="Error Symbol"/>
+<div id="message" style= "font-size:xx-large; color:#aa593d;">Bitte aktiviere JavaScript!</div>
 <br/>
 <div style= "color:#aa593d;">Stand: <span id="updateTime"></span> <a onclick="update()">(aktualisieren)</a></div>
 <style>
@@ -19,8 +19,8 @@
 var spaceApiURL = "https://spaceapi.ccc-p.org/";
 
 var states = {
-    true: {icon:"open.svg", message: "Die machBar ist offen!", color: "#FFCE54", alt="'Open' door sign"},
-    false: {icon:"closed.svg", message: "Die machBar ist geschlossen!", color: "#aa593d", alt="'Closed' door sign"}
+    true: {icon:"open.svg", message: "Die machBar ist offen!", color: "#FFCE54", alt:"'Open' door sign"},
+    false: {icon:"closed.svg", message: "Die machBar ist geschlossen!", color: "#aa593d", alt:"'Closed' door sign"}
 }
 
 var refreshTime = 60; // refresh every x seconds
