@@ -1,7 +1,7 @@
-# Ist die Machbar offen?
+# Ist die machBar offen?
 
 <img id="icon" style = "max-width: 50%;" onclick="update()"/>
-<div id="message" style= "font-size:xx-large; color:#aa593d;">Die Machbar ist geschlossen!</div>
+<div id="message" style= "font-size:xx-large; color:#aa593d;">Die machBar ist geschlossen!</div>
 <br/>
 <div style= "color:#aa593d;">Stand: <span id="updateTime"></span> <a onclick="update()">(aktualisieren)</a></div>
 <style>
@@ -19,8 +19,8 @@
 var spaceApiURL = "https://spaceapi.ccc-p.org/";
 
 var states = {
-    true: {icon:"open.svg", message: "Die Machbar ist offen!", color: "#FFCE54"},
-    false: {icon:"closed.svg", message: "Die Machbar ist geschlossen!", color: "#aa593d"}
+    true: {icon:"open.svg", message: "Die machBar ist offen!", color: "#FFCE54"},
+    false: {icon:"closed.svg", message: "Die machBar ist geschlossen!", color: "#aa593d"}
 }
 
 var refreshTime = 60; // refresh every x seconds
