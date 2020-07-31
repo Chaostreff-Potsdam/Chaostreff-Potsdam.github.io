@@ -20,7 +20,7 @@ var spaceApiURL = "https://spaceapi.ccc-p.org/";
 
 var states = {
     true: {icon:"open.svg", message: "Die Machbar ist offen!", color: "#FFCE54"},
-    false: {icon:"close.svg", message: "Die Machbar ist geschlossen!", color: "#aa593d"}
+    false: {icon:"closed.svg", message: "Die Machbar ist geschlossen!", color: "#aa593d"}
 }
 
 var refreshTime = 60; // refresh every x seconds
