@@ -16,11 +16,12 @@
 <script src="jquery-3.5.1.min.js"></script>
 
 <script>
-var spaceApiURL = "https://spaceapi.ccc-p.org/";
+var spaceApiURL = "https://spaceapi.ccc-p.org";
 
 var states = {
     true: {icon:"open.svg", message: "Die machBar ist offen!", color: "#FFCE54", alt:"'Open' door sign"},
-    false: {icon:"closed.svg", message: "Die machBar ist geschlossen!", color: "#aa593d", alt:"'Closed' door sign"}
+    false: {icon:"closed.svg", message: "Die machBar ist geschlossen!", color: "#aa593d", alt:"'Closed' door sign"},
+    "error": {icon: "error.svg", message: "Ups! Da ist wohl etwas schiefgelaufen!", color: "#aa593d", alt: "Error Symbol"}
 }
 
 var refreshTime = 60; // refresh every x seconds
@@ -37,9 +38,17 @@ function setState(state){
 
 function update (){
     $.getJSON(spaceApiURL, function(data){
-        var state = data.state.open;
-        setState(state);
-    })
+        try{
+            var state = data.state.open;
+            setState(state);
+        }
+        catch (ex){
+            setState("error")
+        }
+
+    }).fail(
+        setState("error")
+    )
 }
 
 function main(){
