@@ -40,6 +40,8 @@ function update (){
     $.getJSON(spaceApiURL, function(data){
         try{
             var state = data.state.open;
+            if (!(typeof state === "boolean"))
+                throw "data.state.open must be boolean!"
             setState(state);
         }
         catch (ex){
