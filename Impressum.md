@@ -8,30 +8,31 @@ Friedrich-Engels-Str. 22
 14473 Potsdam
 
 **Vertreten durch:**
-Max Muster
+Christoph Sterz
 
 **Kontakt:**
-Telefon: 01234-789456
-Fax: 1234-56789 lol
-E-Mail: vorstand@ ...
+Telefon: 016Drei / Neun7096EinsEins
+E-Mail*: vorstand .ǎŧ. ccc-p @.@ org
+
+* Ersetzen Sie `.ǎŧ.` durch `@` und `@.@` durch `.` .
 
 **Registereintrag:**
-Eintragung im Registergericht: Musterstadt
-Registernummer: 12345
+Eintragung im Registergericht: Amtsgericht Potsdam
+Registernummer: VR 9098 P
 
-**Umsatzsteuer-ID:**
+<!-- **Umsatzsteuer-ID:**
 Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: Musterustid.
 
 **Wirtschafts-ID:**
-Musterwirtschaftsid
+Musterwirtschaftsid -->
 
-**Aufsichtsbehörde:**
-Musteraufsicht Musterstadt
+<!-- **Aufsichtsbehörde:**
+Musteraufsicht Musterstadt -->
 
 **Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:**
-Max Muster
-Musterweg
-12345 Musterstadt
+Christoph Sterz
+Großbeerenstraße 34
+14482 Potsdam 
 
 
 Haftungsausschluss:
