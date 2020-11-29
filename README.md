@@ -107,3 +107,6 @@ das den Hackerspace bereichert.
 
 <link rel="icon" type="image/svg+xml" href="icon.svg" />
 
+## Impressum
+
+[Hier findet Ihr unser Impressum.](Impressum.md)
