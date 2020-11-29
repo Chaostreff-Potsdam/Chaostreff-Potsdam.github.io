@@ -60,5 +60,5 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Komm
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
 
 
-Website Impressum erstellt durch [impressum-generator.de](https://www.impressum-generator.de)von der [Kanzlei Hasselbach](https://www.kanzlei-hasselbach.de/).
+Website Impressum erstellt durch [impressum-generator.de](https://www.impressum-generator.de) von der [Kanzlei Hasselbach](https://www.kanzlei-hasselbach.de/).
  
