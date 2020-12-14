@@ -105,7 +105,7 @@ das den Hackerspace bereichert.
 [radio.ccc-p.org]: https://radio.ccc-p.org/
 [forum.wilap.de]: https://forum.wilap.de/c/cccp
 
-<link rel="icon" type="image/svg+xml" href="icon.svg" />
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 ## Impressum
 
