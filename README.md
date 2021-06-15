@@ -1,10 +1,6 @@
 Willkommen auf der Webseite des Chaostreff Potsdam!
 
-<div style="background: #b00; padding: 1em;">Die wöchentlichen Vor-Ort-Treffen finden derzeit, aufgrund des Coronarisikos, nur bei gutem Wetter im Freien statt. 
-
-Bei schlechtem Wetter treffen wir uns mittwochs ab 19 Uhr hier: <a href="https://meet.d.ccc-p.org/treff">https://meet.d.ccc-p.org/treff</a>
-
-Ob das wöchentliche Treffen vor Ort oder online stattfindet, wird im Laufe des Mittwochs über unsere Online-Kommunikationskanäle bekannt gegeben: <a href="#unsere-kommunikationskanäle">hier!</a></div>
+{% include covid-info.md %}
 
 Die Treffen sind in der machBar (Friedrich-Engels-Str. 22 - freiLand - Haus 5).
 Sie finden turnusmäßig jede Woche mittwochs um 19:00 Uhr (MEZ) statt. (Siehe auch im [Kalender der machBar][machBar-Kalender].)
