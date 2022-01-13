@@ -76,7 +76,6 @@ das den Hackerspace bereichert.
  1. **Bevorzugtes Kommunikationsmedium** ist unser [Matrix Chat][chat]
         - Du kannst dir einen eigenen Account erstellen ([Matrix Chat][chat]) und dem Raum
      `#treff:chat.ccc-p.org` beitreten 
-        - Oder den synchronisierten IRC Raum: `#ccc-p` auf `freenode.net` nutzen.
  2. Die [Mailingliste][join-mailing-list] benutzen wir, um Treffen und Events zu koordinieren und anzusagen.
  3. Treffen werden auch auf [Mastodon][mastodon], und [Twitter][twitter] angekündigt.
  4. Im [Forum wilap.de][forum.wilap.de] (der Machbar) stimmen wir uns über (Hardware-) Projekte ab.
