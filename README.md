@@ -42,7 +42,7 @@ unsere [Mailingliste][join-mailing-list]).
 - **Inhalte, Diskussion und Erinnerungen:** [Mailingliste][join-mailing-list] und [Pad][pad]
 - **Wann:** jede Woche am Mittwoch um 19:00 Uhr (MEZ) (siehe [Termine][machbar-termine])
 
-<iframe src="https://open-web-calendar.herokuapp.com/calendar.html?specification_url=https://www.ccc-p.org/calendar-specification.json" scrolling="no" frameborder="0" height="600px" width="100%"></iframe>
+<iframe src="https://open-web-calendar.hosted.quelltext.eu/calendar.html?specification_url=https://www.ccc-p.org/calendar-specification.json" scrolling="no" frameborder="0" height="600px" width="100%"></iframe>
 
 ## Wer?
 
