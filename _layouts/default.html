@@ -13,7 +13,8 @@
   <body>
 
     <header>
-      <div class="container">
+      <div class="container" style="display: flex;">
+        <div>
         <a id="a-title" href="{{ '/' | relative_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
@@ -26,6 +27,10 @@
           {% endif %}
           <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
         </section>
+        </div>
+        <div class="navbar">
+          {% include nav.html nav=site.data.page.nav %}
+        </div>
       </div>
     </header>
 
