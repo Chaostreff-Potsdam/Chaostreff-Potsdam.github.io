@@ -1,7 +1,7 @@
-# Events
+# Veranstaltungen
 
-
-## Vergangene Events
+{{ page.url }}
+## Vergangene Veranstaltungen
 
 ### RTC22 - Reconnect To Chaos
 
