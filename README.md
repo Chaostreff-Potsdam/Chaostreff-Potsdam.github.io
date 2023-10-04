@@ -1,14 +1,6 @@
 Willkommen auf der Webseite des Chaostreff Potsdam!
 
 ---
-**RTC22**
-
-![](https://raw.githubusercontent.com/Chaostreff-Potsdam/Chaostreff-Potsdam.github.io/master/banner.svg)
- Alle Informationen zum Event findet ihr unter 
-<a class="button button-75 center" role="button" href="https://ccc-p.org/rtc22/"><span class="text">RTC 2022</span></a>.
----
-
-
 
 Die Treffen sind in der machBar (Friedrich-Engels-Str. 22 - freiLand - Haus 5).
 Sie finden turnusmäßig jede Woche mittwochs um 19:00 Uhr (MEZ) statt. (Siehe auch im [Kalender der machBar][machBar-Kalender].)
