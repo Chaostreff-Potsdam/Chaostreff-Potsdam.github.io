@@ -3,8 +3,10 @@
   "x-specification-url": "https://github.com/Chaostreff-Potsdam/Chaostreff-Potsdam.github.io/raw/master/calendar_specification.json",
   "x-discussion-url": "https://forum.wilap.de/t/eigener-cccp-kalender/140",
   "url": [
-    "https://forum.wilap.de/c/cccp/l/calendar.ics?category_slug_path_with_id=cccp",
     "https://cloud.ccc-p.org/remote.php/dav/public-calendars/TMFJGspxdtzKc7Gt?export"
+  ],
+  "broken_url": [
+    "https://forum.wilap.de/c/cccp/l/calendar.ics?category_slug_path_with_id=cccp"
   ],
   "title": "CCCP Kalender",
   "language": "de",
