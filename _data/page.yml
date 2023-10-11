@@ -1,4 +1,6 @@
 nav:
+  - title: Geekend
+    url: /geekend
   - title: Veranstaltungen
     url: /veranstaltungen.html
   - title: Mastodon

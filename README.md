@@ -1,6 +1,11 @@
 Willkommen auf der Webseite des Chaostreff Potsdam!
 
 ---
+<div style="margin: auto; width: 30%;"> 
+        <a href="/geekend"><img src="geekend/image.png"/></a>
+</div>
+---
+
 
 Die Treffen sind in der machBar (Friedrich-Engels-Str. 22 - freiLand - Haus 5).
 Sie finden turnusmäßig jede Woche mittwochs um 19:00 Uhr (MEZ) statt. (Siehe auch im [Kalender der machBar][machBar-Kalender].)
