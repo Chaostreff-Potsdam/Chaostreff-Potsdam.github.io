@@ -1,0 +1,6 @@
+{% for item in include.nav %}
+        <a href="{{ item.url }}" class="btn">{{ item.title }}</a>
+    {% if item.subnav %}
+        {% include nav.html nav=item.subnav %}
+    {% endif %}
+{% endfor %}
