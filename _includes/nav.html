@@ -1,9 +1,6 @@
-<ul class="navbar-list">
 {% for item in include.nav %}
-    <li class="{% if item.url == page.url %}active{% endif %}"><a href="{{ item.url }}">{{ item.title }}</a>
+        <a href="{{ item.url }}" class="btn">{{ item.title }}</a>
     {% if item.subnav %}
         {% include nav.html nav=item.subnav %}
     {% endif %}
-    </li>
 {% endfor %}
-</ul>
