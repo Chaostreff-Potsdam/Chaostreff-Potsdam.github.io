@@ -1,7 +1,7 @@
 Willkommen auf der Webseite des Chaostreff Potsdam!
 
 Die Treffen sind in der machBar (Friedrich-Engels-Str. 22 - freiLand - Haus 5).
-Sie finden turnusmäßig jede Woche mittwochs um 19:00 Uhr (MEZ) statt. (Siehe auch im [Kalender der machBar][machBar-Kalender].)
+Sie finden turnusmäßig jede Woche mittwochs um 19:00 Uhr (MEZ) statt. (Siehe auch im [Kalender der machBar][machbar-termine].)
 
 Wenn du mitbekommen magst, wann wir uns treffen und welche Themen du mit uns vorbereiten kannst, dann kannst du der
 [Mailingliste beitreten][join-mailing-list].
@@ -82,14 +82,13 @@ das den Hackerspace bereichert.
  5. Auf [radio.ccc-p.org] findet ihr unsere Podcasts im Nerd-Talk.
  
 
-[Hier][machBar-Kalender] siehst du, was sonst noch in der machBar passiert.
+[Hier][machbar-termine] siehst du, was sonst noch in der machBar passiert.
 
 
 [chat]: https://chat.ccc-p.org
-[machBar]: https://machbar-potsdam.de/?page_id=20
-[machbar-termine]: https://machbar-potsdam.de/?page_id=1250
+[machBar]: https://machbar-potsdam.de/
+[machbar-termine]: https://machbar-potsdam.de/termine/
 [join-mailing-list]: https://lists.ccc-p.org/postorius/lists/treff.ccc-p.org/
-[machBar-Kalender]: https://machbar-potsdam.de/?page_id=1250
 [Freiland]: https://www.freiland-potsdam.de/
 [twitter]: https://twitter.com/ChaosPotsdam
 [mastodon]: https://chaos.social/@cccp
