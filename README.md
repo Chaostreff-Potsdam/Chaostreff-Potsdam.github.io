@@ -71,13 +71,13 @@ das den Hackerspace bereichert.
 
 ## Unsere Kommunikationskanäle
  
- **Treffen im echten Leben** werden im Chat, über die Mailingliste und auf Mastodon und Twitter angekündigt.
+ **Treffen im echten Leben** werden im Chat, über die Mailingliste und auf Mastodon angekündigt.
  
  1. **Bevorzugtes Kommunikationsmedium** ist unser [Matrix Chat][chat]
         - Du kannst dir einen eigenen Account erstellen ([Matrix Chat][chat]) und dem Raum
      `#treff:chat.ccc-p.org` beitreten 
  2. Die [Mailingliste][join-mailing-list] benutzen wir, um Treffen und Events zu koordinieren und anzusagen.
- 3. Treffen werden auch auf [Mastodon][mastodon], und [Twitter][twitter] angekündigt.
+ 3. Treffen werden auch auf [Mastodon][mastodon] angekündigt.
  4. Im [Forum wilap.de][forum.wilap.de] (der Machbar) stimmen wir uns über (Hardware-) Projekte ab.
  5. Auf [radio.ccc-p.org] findet ihr unsere Podcasts im Nerd-Talk.
  
@@ -91,7 +91,6 @@ das den Hackerspace bereichert.
 [join-mailing-list]: https://lists.ccc-p.org/postorius/lists/treff.ccc-p.org/
 [machBar-Kalender]: https://machbar-potsdam.de/?page_id=1250
 [Freiland]: https://www.freiland-potsdam.de/
-[twitter]: https://twitter.com/ChaosPotsdam
 [mastodon]: https://chaos.social/@cccp
 [pad]: https://pad.ccc-p.org/pad/#/2/pad/edit/5p69kEsiG9ZasGh6qyd84m8h/
 [bioPunk.kitchen]: http://biopunk.kitchen/
