@@ -10,4 +10,4 @@ Und: Wir haben **Übernachtungsmöglichkeiten** auf dem Gelände!
 
 Klickt euch hier euer **Ticket**: [https://tickets.ccc-p.org/geekend](https://tickets.ccc-p.org/geekend)
 
-![Alt text](image.png)
+![Geekend 2023 Poster](image.png)
