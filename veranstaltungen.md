@@ -15,7 +15,7 @@ Wir waren damit Teil der dezentralen Jahresendveranstaltungen 2022, kurz JEV22.
 
 ### rC3 2021 NOWHERE
 
-Zum Jahresende 2022 haben wir zusammen mit dem [EBK Halle](https://eigenbaukombinat.de/) eine [ChaosZone](https://chaoszone.cz/)-Bühne
+Zum Jahresende 2021 haben wir zusammen mit dem [EBK Halle](https://eigenbaukombinat.de/) eine [ChaosZone](https://chaoszone.cz/)-Bühne
 gebaut und als Teil von [rC3 2021 NOWHERE](https://events.ccc.de/2021/11/08/rc3-2021-nowhere/) Vorträge gestreamt.
 
 Die Aufzeichnungen sind hier zu finden: [https://media.ccc.de/c/rc3-2021/ChaosZone](https://media.ccc.de/c/rc3-2021/ChaosZone)
