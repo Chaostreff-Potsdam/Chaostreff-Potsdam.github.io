@@ -2,6 +2,14 @@
 
 ## Vergangene Veranstaltungen
 
+### Geekend 2023
+
+Im Herbst 2023 haben wir ein [ChaosZone](https://chaoszone.cz/)-Geekend ausgerichtet und uns zwei Tage lang mit kreativer Nutzung von **E-Paper-Displays**, bekannt aus manchen Elektronik- oder Supermärkten, beschäftigt.
+
+Mehr Informationen zum Geekend findet ihr auf der [archivierten Einladung zum Geekend 2023](geekend).
+
+---
+
 ### RTC22 - Reconnect To Chaos
 
 Vom 27. bis 30.12.2022 fand bei uns unter dem Namen "Reconnect to Chaos" unsere erste größere Veranstaltung mit Publikum statt.
