@@ -13,6 +13,7 @@ Für Fragen kommt gerne in unseren [Matrix-Chat zum Event](https://matrix.to/#/!
 Hier schonmal ein kleiner Vorgeschmack auf das Programm am Samstag und Sonntag:
 
 <script type="text/javascript">window.scroll=function() {}</script>
+<style>.bunt-tabs { visibility: hidden } .settings { visibility: hidden } </style>
 <script type="text/javascript" src="https://cfp.ccc-p.org/maispace-2026/widgets/schedule.js"></script>
 
 <pretalx-schedule event-url="https://cfp.ccc-p.org/maispace-2026/" locale="de" format="list" style="--pretalx-clr-primary: #0f7821"></pretalx-schedule>
