@@ -10,7 +10,7 @@ Kommt einfach vorbei, der Eintritt ist frei, die kulinarische Versorgung ist ebe
 
 Für Fragen kommt gerne in unseren [Matrix-Chat zum Event](https://matrix.to/#/!zNpovjuoSEYoQYeBne:chat.ccc-p.org) oder auch auf [Mastodon](https://chaos.social/@cccp).
 
-Hier schonmal ein kleiner Vorgeschmack auf das Programm am Samstag:
+Hier schonmal ein kleiner Vorgeschmack auf das Programm am Samstag und Sonntag:
 
 <script type="text/javascript">window.scroll=function() {}</script>
 <script type="text/javascript" src="https://cfp.ccc-p.org/maispace-2026/widgets/schedule.js"></script>
@@ -25,29 +25,4 @@ Hier schonmal ein kleiner Vorgeschmack auf das Programm am Samstag:
     </div>
 </noscript>
 
-Wir sind weiter offen für Einreichungen:
-
-🛠 Was wir suchen
-
-Wir suchen alles, was das Herz der Community höher schlagen lässt. Das Format bestimmst du:
-* Vorträge (Talks): 30 bis 60 Minuten über dein Herzensprojekt, Sicherheitslücken, Netzpolitik oder abgefahrene Hardware.
-* Workshops: Hands-on! Löten, Programmieren, Schlösser knacken oder Krypto-Partys.
-* Kurz-Demos & Lightning Talks: Du hast etwas Cooles gebaut, willst aber keinen ganzen Vortrag halten? Her damit!
-* Andere Formate: Du willst eine Podiumsdiskussion moderieren oder eine Kunstinstallation aufbauen? Wir finden einen Platz.
-
-🔍 Mögliche Themenfelder
-
-Wir sind offen für fast alles, aber hier sind ein paar Inspirationen:
-* Security & Privacy: Exploits, Verschlüsselung, Anonymität.
-* Hardware & Making: Microcontroller, 3D-Druck, Vintage-Computing, Audio
-* Ethics & Society: Überwachung, KI-Folgen, digitale Bildung.
-* Nachhaltigkeit: Green IT, Repair-Kultur, Hardware-Hacking für die Umwelt.
-* Chaos-Kultur: Gaming, Lockpicking, bunte Lichter und alles, was Spaß macht.
-
-Hinweis: Der MaiSpace ist ein Event, das von gegenseitigem Respekt lebt. Wir orientieren uns an der Hackerethik und wollen einen Raum schaffen, in dem sich alle wohlfühlen.
-
-Hinweis 2: Dieses Event ist monokelfrei
-
-Hinweis 3: Dieser Text wurde von einem lokal gehosteten LLM generiert 🤖
-
-## -> [Zum CfP](https://cfp.ccc-p.org/maispace-2026/cfp)
+## -> [Zum Programm](https://cfp.ccc-p.org/maispace-2026/schedule/)
