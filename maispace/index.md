@@ -25,4 +25,7 @@ Hier schonmal ein kleiner Vorgeschmack auf das Programm am Samstag und Sonntag:
     </div>
 </noscript>
 
+Hinweis: Der MaiSpace ist ein Event, das von gegenseitigem Respekt lebt. Wir orientieren uns an der Hackerethik und wollen einen Raum schaffen, in dem sich alle wohlfühlen.
+
+Hinweis 2: Dieses Event ist monokelfrei.
 ## -> [Zum Programm](https://cfp.ccc-p.org/maispace-2026/schedule/)
