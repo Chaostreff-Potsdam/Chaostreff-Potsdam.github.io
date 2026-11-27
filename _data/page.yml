@@ -3,5 +3,7 @@ nav:
     url: /maispace
   - title: Veranstaltungen
     url: /veranstaltungen.html
+  - title: Verein
+    url: /verein.html
   - title: Mastodon
     url: https://chaos.social/@cccp
